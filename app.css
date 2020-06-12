@@ -1,0 +1,30 @@
+#task-title {
+	background-color: #10024b;
+	color: #fff;
+	font-size: 18px;
+	padding: 12px;
+	text-transform: uppercase;
+}
+.clear-tasks {
+	background-color: #ed4257;
+}
+.card .card-content .card-title {
+	font-size: 38px;
+	margin-bottom: 32px;
+}
+
+.row .form {
+	margin-bottom: 0;
+}
+.collection-item:nth-of-type(odd) {
+	background-color: rgb(247, 247, 247);
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+	margin-right: 0;
+}
+.card .card-action a:hover {
+	cursor: pointer;
+}
+#task-form {
+	margin-left: 10px;
+}
